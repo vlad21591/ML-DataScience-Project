@@ -46,7 +46,9 @@ Results:
 Short analysis of different parameters (As shown in consule):
 
 The average age of diagnosed with heart disease is 52.5.
+
 The average age of a male is 55.68 and female is 53.76.
+
 The oldest subject of this study is 77 years old and the youngest is 29 years old.
 
 
