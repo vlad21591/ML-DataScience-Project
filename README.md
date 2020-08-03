@@ -3,7 +3,7 @@
 ## Machine learning:
 
 Introduction:
-A study was conducted 
+A study was conducted upon 303 subjects to test how someone can find the "goal" field refers to the presence of heart disease in the patient.
 
 Purpose:
 
@@ -35,6 +35,20 @@ Random Forest -- Accuracy: 0.852, Precision: 0.85, Recall:0.919, Latency: 0ms
 The random forest model will predict with the accuracy of 85.2% and precision of 85% with the give paramters if the subject will be diagnosed a heart condition.
 
 ## Data Science:
+Introduction:
+A study was conducted upon 303 subjects to test how someone can find the "goal" field refers to the presence of heart disease in the patient.
+ 
+Purpose:
+Analysis of the raw data to determine which attributes may point to the heart disease.
+
+Results:
+
+Short analysis of different parameters (As shown in consule):
+
+The average age of diagnosed with heart disease is 52.5.
+The average age of a male is 55.68 and female is 53.76.
+The oldest subject of this study is 77 years old and the youngest is 29 years old.
+
 
 
 ### Acknowledgements for the creation of data:
