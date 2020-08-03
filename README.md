@@ -51,6 +51,9 @@ The average age of a male is 55.68 and female is 53.76.
 
 The oldest subject of this study is 77 years old and the youngest is 29 years old.
 
+Visualisation:
+![](Charts/Pie%20Chart.png)
+
 
 
 ### Acknowledgements for the creation of data:
