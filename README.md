@@ -1,6 +1,6 @@
-## Machine learning and data science project
+# Machine learning and data science project
 
-# Machine learning:
+## Machine learning:
 
 Introduction:
 A study was conducted 
