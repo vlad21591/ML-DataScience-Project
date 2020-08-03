@@ -58,8 +58,10 @@ Visualisation:
 ![](Charts/BarChart2.png)
 
 Results:
+
 After seeing that both sexes who got diagnosed with a heart condition had a chast pain of medium pain, for further examination of the resulst we checked and planned a bar graph to see the chest pain of different ages who got diagnosed too.
 
+I will continue on cheching different statistics of this study.
 
 
 ### Acknowledgements for the creation of data:
