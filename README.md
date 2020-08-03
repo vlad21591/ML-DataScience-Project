@@ -1,16 +1,15 @@
-# Machine learning and data science project
+## Machine learning and data science project
 
-Machine Learning Algorithms
+# Machine learning:
 
 Introduction:
-
-The sinking of the Titanic is one of the most infamous shipwrecks in history. On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
+A study was conducted 
 
 Purpose:
 
-Build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc). machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
+Build a predictive model that answers the question: “what sorts of people were more likely to have a heart disease?” using subjects data (ie age, gender, chest pain levels, etc). machine learning to create a model that predicts which subjects suffred from a hear disease.
 
-[The data came from Kaggle -- Titanic: Machine Learning from Disaster]
+[The data came from Kaggle -- Heart Disease UCI]
 
 Results(from the ML results.py):
 
@@ -24,11 +23,26 @@ RF(Random forest) -- Accuracy: 0.885, Precision: 0.933, Recall:0.848, Latency: 0
 
 GB(Gradient boosted trees) -- Accuracy: 0.852, Precision: 0.9, Recall:0.818, Latency: 0.0ms
 
-Conclusion:
+Conclusion of ML part:
 
-We can see that from the 5 ML models the Random-Forest (learning_rate=0.01,max_depth=2, n_estimators=500) is the best fit.
+We found similar results with Random Forest and SVM models so we test them both with the test data:
 
-Random Forest(with test_data) -- Accuracy: 0.81, Precision: 0.875, Recall:0.645, Latency: 0.01566004753112793ms
+Random Forest -- Accuracy: 0.852, Precision: 0.85, Recall:0.919, Latency: 0ms
+SVM -- Accuracy: 0.82, Precision: 0.842, Recall:0.865, Latency: 0ms
+
+We can see that Random Forest model gets the best results which are:
+Random Forest -- Accuracy: 0.852, Precision: 0.85, Recall:0.919, Latency: 0ms
+The random forest model will predict with the accuracy of 85.2% and precision of 85% with the give paramters if the subject will be diagnosed a heart condition.
+
+Acknowledgements for the creation of data:
+Creators:
+Hungarian Institute of Cardiology. Budapest: Andras Janosi, M.D.
+University Hospital, Zurich, Switzerland: William Steinbrunn, M.D.
+University Hospital, Basel, Switzerland: Matthias Pfisterer, M.D.
+V.A. Medical Center, Long Beach and Cleveland Clinic Foundation: Robert Detrano, M.D., Ph.D.
+Donor:
+David W. Aha (aha '@' ics.uci.edu) (714) 856-8779
+
 
 Thank you.
 
