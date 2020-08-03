@@ -54,8 +54,8 @@ The oldest subject of this study is 77 years old and the youngest is 29 years ol
 Visualisation:
 
 ![](Charts/Pie%20Chart.png)
-![](Charts/Bar%20Chart%20%201.png)
-![](Charts/bar%20chart%202.png)
+![](Charts/BarChart1.png)
+![](Charts/BarChart2.png)
 
 
 
