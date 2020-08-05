@@ -73,7 +73,7 @@ Results:
 
 After seeing that both sexes who got diagnosed with a heart condition had a chest pain of medium pain, for further examination of the resulst we checked and planned a bar graph to see the chest pain of different ages who got diagnosed too.
 
-I will continue on cheching different statistics of this study.
+I will carry on checking different statistics of this study and update the project accordingly.
 
 
 ### Acknowledgements for the creation of data:
