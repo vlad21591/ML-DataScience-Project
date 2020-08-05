@@ -44,7 +44,7 @@ We can see that Random Forest model gets the best results which are:
 
 Random Forest -- Accuracy: 0.852, Precision: 0.85, Recall:0.919, Latency: 0ms
 
-The random forest model will predict with the accuracy of 85.2% and precision of 85% with the give paramters if the subject will be diagnosed a heart condition.
+The random forest model will predict with the accuracy of 85.2% and precision of 85% with the given parameters if the subject will be diagnosed a heart condition.
 
 ## Data Science:
 Introduction:
