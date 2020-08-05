@@ -35,10 +35,13 @@ Conclusion of ML part:
 We found similar results with Random Forest and SVM models so we test them both with the test data:
 
 Random Forest -- Accuracy: 0.852, Precision: 0.85, Recall:0.919, Latency: 0ms
+
 SVM -- Accuracy: 0.82, Precision: 0.842, Recall:0.865, Latency: 0ms
 
 We can see that Random Forest model gets the best results which are:
+
 Random Forest -- Accuracy: 0.852, Precision: 0.85, Recall:0.919, Latency: 0ms
+
 The random forest model will predict with the accuracy of 85.2% and precision of 85% with the give paramters if the subject will be diagnosed a heart condition.
 
 ## Data Science:
