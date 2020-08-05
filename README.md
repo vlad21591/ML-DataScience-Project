@@ -9,7 +9,7 @@ Purpose:
 
 Build a predictive model that answers the question: “what sorts of people were more likely to have a heart disease?” using subjects data (ie age, gender, chest pain levels, etc). machine learning to create a model that predicts which subjects suffred from a hear disease.
 
-[The data came from Kaggle -- Heart Disease UCI]
+[The data came from Kaggle -- Heart Disease UCI, In the data-splitting file the seed for random_stat is set to 42 if you want to have similar results]
 
 Results(from the ML results.py):
 
@@ -59,7 +59,7 @@ Visualisation:
 
 Results:
 
-After seeing that both sexes who got diagnosed with a heart condition had a chast pain of medium pain, for further examination of the resulst we checked and planned a bar graph to see the chest pain of different ages who got diagnosed too.
+After seeing that both sexes who got diagnosed with a heart condition had a chest pain of medium pain, for further examination of the resulst we checked and planned a bar graph to see the chest pain of different ages who got diagnosed too.
 
 I will continue on cheching different statistics of this study.
 
