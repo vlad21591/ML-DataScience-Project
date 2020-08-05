@@ -14,6 +14,7 @@ Build a predictive model that answers the question: “what sorts of people were
 Notes:
 
 • The dataset is split into 0.6% training, 0.2% validation and 0.2% test.
+
 • In the data-splitting file, the seed for random_stat is set to 42 if you want to have similar numerical results.
 
 
