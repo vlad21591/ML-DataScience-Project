@@ -21,7 +21,7 @@ Notes:
 
 Results(from the ML results.py):
 
-LR(Logistic regression) -- Accuracy: 0.852, Precision: 0.9, Recall:0.818, Latency: 0.01558065414428711ms
+LR(Logistic regression) -- Accuracy: 0.852, Precision: 0.9, Recall:0.818, Latency: 0.0ms
 
 SVM(Support Vector Machines) -- Accuracy: 0.885, Precision: 0.933, Recall:0.848, Latency: 0.0ms
 
