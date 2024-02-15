@@ -19,20 +19,20 @@ Notes:
 
 
 
-Results(from the ML results.py):
+### Results:
 
-LR(Logistic regression) -- Accuracy: 0.852, Precision: 0.9, Recall:0.818, Latency: 0.0ms
+LR (Logistic regression) -- Accuracy: 0.852, Precision: 0.9, Recall:0.818, Latency: 0.0ms
 
-SVM(Support Vector Machines) -- Accuracy: 0.885, Precision: 0.933, Recall:0.848, Latency: 0.0ms
+SVM (Support Vector Machines) -- Accuracy: 0.885, Precision: 0.933, Recall:0.848, Latency: 0.0ms
 
-MLP(Multilayer perception) -- Accuracy: 0.869, Precision: 0.931, Recall:0.818, Latency: 0.0ms
+MLP (Multilayer perception) -- Accuracy: 0.869, Precision: 0.931, Recall:0.818, Latency: 0.0ms
 
-RF(Random forest) -- Accuracy: 0.885, Precision: 0.933, Recall:0.848, Latency: 0.0ms
+RF (Random forest) -- Accuracy: 0.885, Precision: 0.933, Recall:0.848, Latency: 0.0ms
 
-GB(Gradient boosted trees) -- Accuracy: 0.852, Precision: 0.9, Recall:0.818, Latency: 0.0ms
+GB (Gradient boosted trees) -- Accuracy: 0.852, Precision: 0.9, Recall:0.818, Latency: 0.0ms
 
 
-Conclusion of ML part:
+### Conclusion of ML part:
 
 We found similar results with Random Forest and SVM models so we test them both with the test data:
 
